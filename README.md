@@ -1,11 +1,13 @@
 # Hi, I'm Mohamed Marbouh 👋
 
-## Full Stack Software Engineer (Java/JS)
+## Full Stack Software Eng![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GithubMarbouh&layout=compact&theme=dark)
 
-Ingénieur logiciel passionné par le développement d'applications web scalables et l'innovation technologique. Étudiant en dernière année à l'ENSA Marrakech.
+### 🎓 Education & Experience
+
+Passionate software engineer focused on building scalable web applications and technological innovation.
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **refactoring Adria's middleware architecture**
+- 🔭 I'm currently working on **innovative full-stack web applications**
 - 🌱 I'm currently learning **Spring Cloud, Kubernetes, and Advanced DevOps**
 - 👯 I'm looking to collaborate on **microservices architectures and fintech solutions**
 - 💬 Ask me about **Spring Boot, Angular, React, AI integration, and cloud deployment**
