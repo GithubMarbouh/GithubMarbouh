@@ -57,17 +57,12 @@ Passionate software engineer focused on building scalable web applications and t
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GithubMarbouh&layout=compact&theme=dark)
 
-### 📌 Pinned Repositories
-
-[![Fake ID Card Generator](https://github-readme-stats.vercel.app/api/pin/?username=GithubMarbouh&repo=fake-id-generator&theme=dark)](https://github.com/GithubMarbouh/fake-id-generator)
-[![RPA Application](https://github-readme-stats.vercel.app/api/pin/?username=GithubMarbouh&repo=rpa-automation&theme=dark)](https://github.com/GithubMarbouh/rpa-automation)
 
 ### 🏆 Achievements
 - 🥇 Developed enterprise middleware architecture at Adria Business & Technology
 - 🤖 Created comprehensive RPA automation solution with microservices
 - 🧠 Integrated AI models with Salesforce and cloud platforms
 - 💼 Built fintech platform JIBI with secure payment processing
-- � Engineering student at ENSA Marrakech (2022-2025)
 
 ### 🎓 Education & Experience
 - **Engineering Degree** - Computer Science, ENSA Marrakech (2022-2025)
