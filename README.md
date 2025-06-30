@@ -1,8 +1,6 @@
 # Hi, I'm Mohamed Marbouh 👋
 
 ## Full Stack Software Eng!
-### 🎓 Education & Experience
-
 Passionate software engineer focused on building scalable web applications and technological innovation.
 
 ### 🚀 About Me
